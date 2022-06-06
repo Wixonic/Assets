@@ -8,11 +8,12 @@
 
 ## File Lister
 <!-- File Lister Display -->
-> **Last Update**: 06/06/2022 14:16:37 UTC
+> **Last Update**: 06/06/2022 14:17:07 UTC
 
 ```
-─── (596.1 KB) 
-    └── libraries (596.1 KB) 
+─── (2.3 MB) 
+    └── libraries (2.3 MB) 
+        └── fontawesome.js (1.7 MB)
         └── three.js (596.1 KB)
 ```
 <!-- File Lister Display -->
