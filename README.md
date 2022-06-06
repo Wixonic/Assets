@@ -8,9 +8,10 @@
 
 ## File Lister
 <!-- File Lister Display -->
-> **Last Update**: 06/06/2022 08:43:02 UTC
+> **Last Update**: 06/06/2022 08:44:30 UTC
 
 ```
-─── (0 B) 
+─── (17 B) 
+    └── CNAME (17 B)
 ```
 <!-- File Lister Display -->
