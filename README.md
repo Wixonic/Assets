@@ -8,7 +8,7 @@
 
 ## File Lister
 <!-- File Lister Display -->
-> **Last Update**: 06/06/2022 15:00:57 UTC
+> **Last Update**: 06/06/2022 15:01:56 UTC
 
 ```
 ─── (2.6 MB) 
@@ -40,8 +40,8 @@
         └── ms-icon-150x150.png (4.9 KB)
         └── ms-icon-310x310.png (11.7 KB)
         └── ms-icon-70x70.png (2.6 KB)
-    └── images (365 B) 
-        └── roblox-logo.svg (365 B)
+    └── images (349 B) 
+        └── roblox-logo.svg (349 B)
     └── libraries (2.3 MB) 
         └── fontawesome.js (1.7 MB)
         └── three.js (596.1 KB)
