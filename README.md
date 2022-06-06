@@ -8,10 +8,38 @@
 
 ## File Lister
 <!-- File Lister Display -->
-> **Last Update**: 06/06/2022 14:21:24 UTC
+> **Last Update**: 06/06/2022 14:59:01 UTC
 
 ```
-─── (2.4 MB) 
+─── (2.5 MB) 
+    └── favicon (96 KB) 
+        └── android-icon-144x144.png (4.8 KB)
+        └── android-icon-192x192.png (4.5 KB)
+        └── android-icon-36x36.png (1.8 KB)
+        └── android-icon-48x48.png (2.1 KB)
+        └── android-icon-72x72.png (2.7 KB)
+        └── android-icon-96x96.png (3.2 KB)
+        └── apple-icon-114x114.png (3.7 KB)
+        └── apple-icon-120x120.png (3.9 KB)
+        └── apple-icon-144x144.png (4.8 KB)
+        └── apple-icon-152x152.png (5 KB)
+        └── apple-icon-180x180.png (6 KB)
+        └── apple-icon-57x57.png (2.3 KB)
+        └── apple-icon-60x60.png (2.4 KB)
+        └── apple-icon-72x72.png (2.7 KB)
+        └── apple-icon-76x76.png (2.7 KB)
+        └── apple-icon-precomposed.png (5.6 KB)
+        └── apple-icon.png (5.6 KB)
+        └── browserconfig.xml (281 B)
+        └── favicon-16x16.png (1.4 KB)
+        └── favicon-32x32.png (1.7 KB)
+        └── favicon-96x96.png (3.2 KB)
+        └── favicon.ico (1.1 KB)
+        └── manifest.json (724 B)
+        └── ms-icon-144x144.png (4.8 KB)
+        └── ms-icon-150x150.png (4.9 KB)
+        └── ms-icon-310x310.png (11.7 KB)
+        └── ms-icon-70x70.png (2.6 KB)
     └── libraries (2.3 MB) 
         └── fontawesome.js (1.7 MB)
         └── three.js (596.1 KB)
