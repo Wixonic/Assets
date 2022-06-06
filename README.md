@@ -8,10 +8,10 @@
 
 ## File Lister
 <!-- File Lister Display -->
-> **Last Update**: 06/06/2022 14:59:01 UTC
+> **Last Update**: 06/06/2022 15:00:12 UTC
 
 ```
-─── (2.5 MB) 
+─── (2.6 MB) 
     └── favicon (96 KB) 
         └── android-icon-144x144.png (4.8 KB)
         └── android-icon-192x192.png (4.5 KB)
@@ -44,6 +44,12 @@
         └── fontawesome.js (1.7 MB)
         └── three.js (596.1 KB)
     └── logo.jpg (50.9 KB)
+    └── logos (160.2 KB) 
+        └── logo-dark-nospace.png (49 KB)
+        └── logo-dark.svg (1.5 KB)
+        └── logo.jpg (50.9 KB)
+        └── logo.svg (1.5 KB)
+        └── rounded-logo.png (57.3 KB)
     └── roblox-logo.svg (365 B)
 ```
 <!-- File Lister Display -->
