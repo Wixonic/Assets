@@ -8,7 +8,7 @@
 
 ## File Lister
 <!-- File Lister Display -->
-> **Last Update**: 06/06/2022 15:00:12 UTC
+> **Last Update**: 06/06/2022 15:00:33 UTC
 
 ```
 ─── (2.6 MB) 
@@ -43,7 +43,6 @@
     └── libraries (2.3 MB) 
         └── fontawesome.js (1.7 MB)
         └── three.js (596.1 KB)
-    └── logo.jpg (50.9 KB)
     └── logos (160.2 KB) 
         └── logo-dark-nospace.png (49 KB)
         └── logo-dark.svg (1.5 KB)
