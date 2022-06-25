@@ -8,10 +8,10 @@
 
 ## File Lister
 <!-- File Lister Display -->
-> **Last Update**: 24/06/2022 07:26:21 UTC
+> **Last Update**: 25/06/2022 08:18:22 UTC
 
 ```
-─── (2.6 MB) 
+─── (8.5 MB) 
     └── favicon (96 KB) 
         └── android-icon-144x144.png (4.8 KB)
         └── android-icon-192x192.png (4.5 KB)
@@ -53,5 +53,7 @@
         └── logo.jpg (50.9 KB)
         └── logo.svg (1.5 KB)
         └── rounded-logo.png (57.3 KB)
+    └── songs (5.9 MB) 
+        └── All Night Long - Jonas Blue & Retrovision.mp3 (5.9 MB)
 ```
 <!-- File Lister Display -->
