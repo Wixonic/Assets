@@ -1,5 +1,5 @@
 # Vectary OBJ Export units=mm
-mtllib Logo.mtl
+mtllib logo.mtl
 o 000_Path
 g Path
 usemtl _c960e389-1f63-447b-ac77-1ae8d5b188a0
