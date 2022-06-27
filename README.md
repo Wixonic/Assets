@@ -6,7 +6,7 @@
 
 ## File Lister
 <!-- File Lister Display -->
-> **Last Update**: 27/06/2022 18:57:53 UTC
+> **Last Update**: 27/06/2022 19:03:53 UTC
 
 ```
 ─── (15.3 MB) 
@@ -45,10 +45,11 @@
         └── prism.css (2.1 KB)
         └── prism.js (19.6 KB)
         └── three.js (596.1 KB)
-    └── logos (567.7 KB) 
+    └── logos (567.8 KB) 
         └── logo-dark-nospace.png (49 KB)
         └── logo-dark.svg (1.5 KB)
         └── logo.jpg (50.9 KB)
+        └── logo.mtl (148 B)
         └── logo.obj (407.5 KB)
         └── logo.svg (1.5 KB)
         └── rounded-logo.png (57.3 KB)
