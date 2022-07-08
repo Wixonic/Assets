@@ -4,7 +4,7 @@
 
 ## File Lister
 <!-- File Lister Display -->
-> **Last Update**: 08/07/2022 13:08:37 UTC
+> **Last Update**: 08/07/2022 13:10:50 UTC
 
 ```
 ─── (35.7 MB) 
@@ -17,7 +17,6 @@
         └── prism.js (19.6 KB)
         └── three.js (598.7 KB)
     └── logos (21.1 MB) 
-        └── .DS_Store (6.1 KB)
         └── logo-high.png (8 MB)
         └── logo-low.png (501.1 KB)
         └── logo.dae (18.5 KB)
