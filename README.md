@@ -4,10 +4,10 @@
 
 ## File Lister
 <!-- File Lister Display -->
-> **Last Update**: 08/07/2022 13:10:50 UTC
+> **Last Update**: 08/07/2022 21:20:01 UTC
 
 ```
-─── (35.7 MB) 
+─── (14.7 MB) 
     └── 404.html (1.9 KB)
     └── images (349 B) 
         └── roblox-logo.svg (349 B)
@@ -16,16 +16,12 @@
         └── prism.css (2.1 KB)
         └── prism.js (19.6 KB)
         └── three.js (598.7 KB)
-    └── logos (21.1 MB) 
-        └── logo-high.png (8 MB)
-        └── logo-low.png (501.1 KB)
-        └── logo.dae (18.5 KB)
-        └── logo.png (2 MB)
-        └── logo.svg (2.4 KB)
-        └── productions-high.png (8 MB)
-        └── productions-low.png (501.1 KB)
-        └── productions.dae (50.3 KB)
-        └── productions.png (2 MB)
+    └── logos (83.4 KB) 
+        └── logo-high.png (52.3 KB)
+        └── logo-low.png (8.3 KB)
+        └── logo.dae (1.7 KB)
+        └── logo.png (19.6 KB)
+        └── logo.svg (1.5 KB)
     └── songs (12.3 MB) 
         └── All Night Long - Jonas Blue & Retrovision.mp3 (5.9 MB)
         └── Umbra - Ace Aura & Voicians.mp3 (6.4 MB)
