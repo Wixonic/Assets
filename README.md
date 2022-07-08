@@ -4,7 +4,7 @@
 
 ## File Lister
 <!-- File Lister Display -->
-> **Last Update**: 08/07/2022 11:41:58 UTC
+> **Last Update**: 08/07/2022 11:42:23 UTC
 
 ```
 ─── (35.7 MB) 
@@ -20,6 +20,7 @@
         └── logo-high.png (8 MB)
         └── logo-low.png (501.1 KB)
         └── logo.png (2 MB)
+        └── logo.svg (2.4 KB)
         └── productions-high.png (8 MB)
         └── productions-low.png (501.1 KB)
         └── productions.png (2 MB)
