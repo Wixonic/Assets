@@ -4,7 +4,7 @@
 
 ## File Lister
 <!-- File Lister Display -->
-> **Last Update**: 08/07/2022 21:20:01 UTC
+> **Last Update**: 09/07/2022 06:32:42 UTC
 
 ```
 ─── (14.7 MB) 
@@ -16,10 +16,9 @@
         └── prism.css (2.1 KB)
         └── prism.js (19.6 KB)
         └── three.js (598.7 KB)
-    └── logos (83.4 KB) 
+    └── logos (81.7 KB) 
         └── logo-high.png (52.3 KB)
         └── logo-low.png (8.3 KB)
-        └── logo.dae (1.7 KB)
         └── logo.png (19.6 KB)
         └── logo.svg (1.5 KB)
     └── songs (12.3 MB) 
