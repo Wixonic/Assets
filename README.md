@@ -4,7 +4,7 @@
 
 ## File Lister
 <!-- File Lister Display -->
-> **Last Update**: 03/10/2022 19:34:56 UTC
+> **Last Update**: 29/10/2022 15:45:37 UTC
 
 ```
 ─── (36.3 MB) 
@@ -19,6 +19,7 @@
         └── logo-high.png (16 MB)
         └── logo-icon.png (40.5 KB)
         └── logo-low.png (1 MB)
+        └── logo-pixelated.png (800 B)
         └── logo.png (4 MB)
         └── logo.svg (1.7 KB)
     └── songs (14.6 MB) 
