@@ -4,7 +4,7 @@
 
 ## File Lister
 <!-- File Lister Display -->
-> **Last Update**: 29/10/2022 15:45:37 UTC
+> **Last Update**: 04/11/2022 19:15:26 UTC
 
 ```
 ─── (36.3 MB) 
@@ -21,7 +21,7 @@
         └── logo-low.png (1 MB)
         └── logo-pixelated.png (800 B)
         └── logo.png (4 MB)
-        └── logo.svg (1.7 KB)
+        └── logo.svg (1.8 KB)
     └── songs (14.6 MB) 
         └── All Night Long - Jonas Blue & Retrovision.mp3 (5.9 MB)
         └── Strange Things - Zachary Nelson.mp3 (2.3 MB)
