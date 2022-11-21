@@ -4,10 +4,10 @@
 
 ## File Lister
 <!-- File Lister Display -->
-> **Last Update**: 07/11/2022 21:07:24 UTC
+> **Last Update**: 21/11/2022 12:05:17 UTC
 
 ```
-─── (36.3 MB) 
+─── (21.7 MB) 
     └── 404.html (349 B)
     └── images (349 B) 
         └── roblox-logo.svg (349 B)
@@ -22,9 +22,5 @@
         └── logo-pixelated.png (800 B)
         └── logo.png (4 MB)
         └── logo.svg (1.8 KB)
-    └── songs (14.6 MB) 
-        └── All Night Long - Jonas Blue & Retrovision.mp3 (5.9 MB)
-        └── Strange Things - Zachary Nelson.mp3 (2.3 MB)
-        └── Umbra - Ace Aura & Voicians.mp3 (6.4 MB)
 ```
 <!-- File Lister Display -->
