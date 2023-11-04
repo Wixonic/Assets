@@ -1,5 +1,3 @@
-[![Wakatime](https://wakatime.com/badge/github/Wixonic/Assets.svg?style=flat)](https://wakatime.com/badge/github/Wixonic/Assets)
-
 - [Support](https://github.com/Wixonic/Assets/blob/Default/.github/SUPPORT.md)
 - [Code of Conduct](https://github.com/Wixonic/Assets/blob/Default/.github/CODE_OF_CONDUCT.md)
 
